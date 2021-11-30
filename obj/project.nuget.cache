@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GikBgjF8tueM5DFoylJafytm35AuXjI6olX4S/dpwByZYk4VMk31HUPpfiK6SbmwA+EvjEwEdOzyEIZnzFMV/Q==",
+  "dgSpecHash": "lkw19x/ibviQ9H9qSz2iEgr3FZIaEXb0UN395ijZ4bCTPzPeA9+TVFvAjJqJHDQSmIAEJ2BD5qwrXBcJcuZfQg==",
   "success": true,
-  "projectFilePath": "D:\\Programing\\GitHub Hello World\\GitHub Hello World.csproj",
+  "projectFilePath": "/home/dean-lnx/code/Git Test/GitHub-Hello-World/GitHub Hello World.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

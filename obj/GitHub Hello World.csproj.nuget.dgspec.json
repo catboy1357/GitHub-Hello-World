@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programing\\GitHub Hello World\\GitHub Hello World.csproj": {}
+    "/home/dean-lnx/code/Git Test/GitHub-Hello-World/GitHub Hello World.csproj": {}
   },
   "projects": {
-    "D:\\Programing\\GitHub Hello World\\GitHub Hello World.csproj": {
+    "/home/dean-lnx/code/Git Test/GitHub-Hello-World/GitHub Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\GitHub Hello World\\GitHub Hello World.csproj",
+        "projectUniqueName": "/home/dean-lnx/code/Git Test/GitHub-Hello-World/GitHub Hello World.csproj",
         "projectName": "GitHub Hello World",
-        "projectPath": "D:\\Programing\\GitHub Hello World\\GitHub Hello World.csproj",
-        "packagesPath": "C:\\Users\\Dean-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\GitHub Hello World\\obj\\",
+        "projectPath": "/home/dean-lnx/code/Git Test/GitHub-Hello-World/GitHub Hello World.csproj",
+        "packagesPath": "/home/dean-lnx/.nuget/packages/",
+        "outputPath": "/home/dean-lnx/code/Git Test/GitHub-Hello-World/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dean-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/dean-lnx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
